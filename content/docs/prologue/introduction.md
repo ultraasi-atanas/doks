@@ -23,7 +23,7 @@ Step-by-step instructions on how to start a new Doks project. [Tutorial →](htt
 
 ### Quick Start
 
-One page summary of how to start a new Doks project. [Quick Start →]({{< relref "quick-start" >}})
+One page summary of how to start a new Doks project. 
 
 ## Go further
 
